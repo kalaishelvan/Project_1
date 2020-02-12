@@ -3,6 +3,6 @@ USERNAME=/Users/kalaishelvan/Desktop/scripting/username
 KEY= /Users/kalaishelvan/Downloads/folder/NewKey.pem
 HOSTS=/Users/kalaishelvan/Downloads/folder/hostname
 for HOSTNAME in ${HOSTS} ; do
-ssh -i ${KEY} ${USERNAME} ${HOSTS}
-done
+sh -i ${KEY} ${USERNAME} ${HOSTS}
+kalai
 
