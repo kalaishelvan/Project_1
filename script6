@@ -1,3 +1,4 @@
 !/bin/bash
 current_time=$(date "+%Y/%d/%m--%H:%M:%S")
-echo "Succesfully moved at $current_time" >> /Users/kalaishelvan/Desktop/Logs/Png_logs
+editing this script for testing
+i think it will work 
